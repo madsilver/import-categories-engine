@@ -38,7 +38,8 @@ class Dispatcher
     {
         $this->params = parse_ini_file("conf/param.ini");
         $this->httpClient = new \GuzzleHttp\Client();
-        $this->url = $url.$this->params['api'];
+        $this->url  = strpos($url, "http://") ? 'http://'.$url : $url;
+        $this->url .= $this->params['api'];
     }
 
     /**
