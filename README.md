@@ -1,4 +1,6 @@
 # Import Categories Engine
+[![Build Status](https://travis-ci.org/madsilver/import-categories-engine.svg?branch=master)](https://travis-ci.org/madsilver/import-categories-engine)
+
 Script para cadastro de categorias em lote no Bob. Importa um arquivo csv e executa requisições http na api de categorias.
 
 #### Usage
