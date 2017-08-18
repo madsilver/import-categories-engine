@@ -18,7 +18,10 @@
     },
     "autoload": {
         "psr-4": {
-            "Silver\\":"src/"
+            "Silver\\": ["src/", "tests/"]
         }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^6.3"
     }
 }
