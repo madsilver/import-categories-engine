@@ -1,0 +1,154 @@
+name;parent_id
+Calçados;
+Alpargata;Calçados
+Babuche;Calçados
+Bota;Calçados
+Chinelo;Calçados
+Chuteira;Calçados
+Sandália;Calçados
+Sapatênis;Calçados
+Sapatilha;Calçados
+Sapato;Calçados
+Tênis;Calçados
+Roupas;
+Bermuda e Short;Roupas
+Body e Culote;Roupas
+Blusa;Roupas
+Calça;Roupas
+Camisa;Roupas
+Camiseta;Roupas
+Casaco e Jaqueta;Roupas
+Conjunto;Roupas
+Fantasia;Roupas
+Moletom;Roupas
+Malha e Suéter;Roupas
+Macacão e Macaquinho;Roupas
+Moda Íntima;Roupas
+Calcinha;Moda Íntima
+Ceroula;Moda Íntima
+Combinação de Anágua;Moda Íntima
+Conjunto;Moda Íntima
+Cueca;Moda Íntima
+Meia;Moda Íntima
+Modelador e Cinta;Moda Íntima
+Sutiã;Moda Íntima
+Moda Praia;Roupas
+Biquíni;Moda Praia
+Body;Moda Praia
+Canga;Moda Praia
+Maiô;Moda Praia
+Saída de Praia;Moda Praia
+Sunga;Moda Praia
+Pijama e Camisola;Roupas
+Polo;Roupas
+Saia;Roupas
+Top;Roupas
+Vestido;Roupas
+Acessórios;
+Bijuteria;Acessórios
+Bolsa;Acessórios
+Boné, Chapéu e Viseira;Acessórios
+Cachecól e Lenço;Acessórios
+Canivete;Acessórios
+Carteira;Acessórios
+Cinto;Acessórios
+Estojo;Acessórios
+Gorro;Acessórios
+Gravata;Acessórios
+Guarda-Chuva e Capa de Chuva;Acessórios
+Lancheira;Acessórios
+Luva;Acessórios
+Mochila e Mala;Acessórios
+Munhequeira;Acessórios
+Necessaire;Acessórios
+Óculos;Acessórios
+Armação de Óculos;Acessórios
+Papelaria;Acessórios
+Pasta;Acessórios
+Relógio;Acessórios
+Beleza;
+Barba;Beleza
+Cabelo;Beleza
+Corpo e Banho;Beleza
+Maquiagem;Beleza
+Perfume;Beleza
+Protetor Solar;Beleza
+Tratamento;Beleza
+Unha;Beleza
+Casa;
+Cama;Casa
+Mesa;Casa
+Banho;Casa
+Decoração;Casa
+Tapete e Cortina;Casa
+Cortina;Tapete e Cortina
+Persiana;Tapete e Cortina
+Tapete;Tapete e Cortina
+Utilidade;Casa
+Móveis;
+Adega de Vinho;Móveis
+Aparador;Móveis
+Armário;Móveis
+Balcão;Móveis
+Banqueta;Móveis
+Beliche;Móveis
+Berço;Móveis
+Bicama;Móveis
+Cabeceira;Móveis
+Cadeira;Móveis
+Cama Alta;Móveis
+Cama Auxiliar;Móveis
+Colchão e Colchonete;Móveis
+Cômoda;Móveis
+Escrivaninha;Móveis
+Estante;Móveis
+Fruteira;Móveis
+Guarda Roupa;Móveis
+Mesa;Móveis
+Organizador e Baú;Móveis
+Painel para TV;Móveis
+Paneleiro;Móveis
+Penteadeira;Móveis
+Poltrona;Móveis
+Protetor e Trava;Móveis
+Puff;Móveis
+Rack para TV;Móveis
+Tampo;Móveis
+Ventilador;Móveis
+Puericultura;
+Alimentação;Puericultura
+Amamentação;Puericultura
+Andador;Puericultura
+Artigo para Festa, Chá de Bebê e Maternidade;Puericultura
+Babá Eletrônica;Puericultura
+Bebê Conforto;Puericultura
+Bolsa e Trocador;Puericultura
+Cadeira de Descanso;Puericultura
+Cadeirinha para Auto;Puericultura
+Canguru e Sling;Puericultura
+Carrinho de Bebê;Puericultura
+Chocalho, Mordedor e Chupeta;Puericultura
+Fralda;Puericultura
+Higiene e Saúde;Puericultura
+Móbile e Projetor;Puericultura
+Brinquedos;
+Bicicleta;Brinquedos
+Blocos de montar;Brinquedos
+Boneca e Boneco;Brinquedos
+Desenho e Pintura;Brinquedos
+Game e Eletrônico;Brinquedos
+Instrumento Musical;Brinquedos
+Jogo;Brinquedos
+Livro;Brinquedos
+Massinha de modelar;Brinquedos
+Mini Veículo;Brinquedos
+Miniatura de Veiculo;Brinquedos
+Pelúcia;Brinquedos
+Playground e Casinha;Brinquedos
+Praia, Lazer e Esporte;Brinquedos
+Skate, Patins e Patinete;Brinquedos
+Tapete de Atividade, EVA e Dança;Brinquedos
+Equipamentos;
+Outdoor;Equipamentos
+Skate;Equipamentos
+Surf;Equipamentos

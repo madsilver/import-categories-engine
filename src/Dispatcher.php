@@ -64,12 +64,7 @@ class Dispatcher
             throw new \Exception($response->getBody());
         }
 
-        $json = $response->getBody()->getContents();
-
-        json_decode($json);
-        if (json_last_error() != JSON_ERROR_NONE) {
-            throw new \Exception("Server response isn't a json");
-        }
+        $json = \GuzzleHttp\json_decode($response->getBody()->getContents());
 
         return [
             'id' => $json->id,
